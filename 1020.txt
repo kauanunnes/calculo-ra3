@@ -1,11 +1,4 @@
-﻿Caminho do Arquivo: C:\MTS TestSuite\Data Files\Execução de Teste 1 01-06-2017 16 33 19\DAQ-Travessa Horizontal; … - (Cronometrada).txt   
-Teste: MTS EM ASTM A370 Tração de Metais_claudio 108
-Execução de Teste: Execução de Teste 1
-Nome de Execução da Análise: 01/06/2017 16:07:41
-
-
-Travessa Horizontal 	Carga 	Tempo 
-mm	kN	seg
+﻿travessa_Horizontal 	carga 	tempo
 0,000932561761146644	0,0359824752807617	0,109999999403954
 0,00125693111385772	0,0487494049072266	0,129999995231628
 0,00162184653618169	0,0644784545898437	0,150000005960464
